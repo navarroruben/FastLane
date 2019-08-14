@@ -1,0 +1,101 @@
+15
+1vehicle  Driver_1_ID Driver_1_CDL
+2carriage Driver_2_ID Driver_2_CDL 25
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+3bus      Driver_3_ID Driver_3_CDL 80
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+4limo     Driver_4_ID Driver_4_CDL 12
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+5truck    Driver_5_ID Driver_5_CDL 
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+33
+1vehicle  Driver_1_ID Driver_1_CDL
+3bus      Driver_3_ID Driver_3_CDL 80
+2carriage Driver_2_ID Driver_2_CDL 25
+1vehicle  Driver_1_ID Driver_1_CDL
+5truck    Driver_5_ID Driver_5_CDL 
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+2carriage Driver_2_ID Driver_2_CDL 25
+3bus      Driver_3_ID Driver_3_CDL 80
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+5truck    Driver_5_ID Driver_5_CDL 
+5truck    Driver_5_ID Driver_5_CDL 
+2carriage Driver_2_ID Driver_2_CDL 25
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+1vehicle  Driver_1_ID Driver_1_CDL
+3bus      Driver_3_ID Driver_3_CDL 80
+5truck    Driver_5_ID Driver_5_CDL 
+3bus      Driver_3_ID Driver_3_CDL 80
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+4limo     Driver_4_ID Driver_4_CDL 12
+5truck    Driver_5_ID Driver_5_CDL 
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+3bus      Driver_3_ID Driver_3_CDL 80
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+5truck    Driver_5_ID Driver_5_CDL 
+1vehicle  Driver_1_ID Driver_1_CDL
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+5truck    Driver_5_ID Driver_5_CDL 
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+2carriage Driver_2_ID Driver_2_CDL 25
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+3bus      Driver_3_ID Driver_3_CDL 80
+15
+1vehicle  Driver_1_ID Driver_1_CDL
+2carriage Driver_2_ID Driver_2_CDL 25
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+3bus      Driver_3_ID Driver_3_CDL 80
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+4limo     Driver_4_ID Driver_4_CDL 12
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+5truck    Driver_5_ID Driver_5_CDL 
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+33
+1vehicle  Driver_1_ID Driver_1_CDL
+3bus      Driver_3_ID Driver_3_CDL 80
+2carriage Driver_2_ID Driver_2_CDL 25
+1vehicle  Driver_1_ID Driver_1_CDL
+5truck    Driver_5_ID Driver_5_CDL 
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+2carriage Driver_2_ID Driver_2_CDL 25
+3bus      Driver_3_ID Driver_3_CDL 80
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+5truck    Driver_5_ID Driver_5_CDL 
+5truck    Driver_5_ID Driver_5_CDL 
+2carriage Driver_2_ID Driver_2_CDL 25
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+1vehicle  Driver_1_ID Driver_1_CDL
+3bus      Driver_3_ID Driver_3_CDL 80
+5truck    Driver_5_ID Driver_5_CDL 
+3bus      Driver_3_ID Driver_3_CDL 80
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+4limo     Driver_4_ID Driver_4_CDL 12
+5truck    Driver_5_ID Driver_5_CDL 
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+3bus      Driver_3_ID Driver_3_CDL 80
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+5truck    Driver_5_ID Driver_5_CDL 
+1vehicle  Driver_1_ID Driver_1_CDL
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+5truck    Driver_5_ID Driver_5_CDL 
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+2carriage Driver_2_ID Driver_2_CDL 25
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+3bus      Driver_3_ID Driver_3_CDL 80
+0

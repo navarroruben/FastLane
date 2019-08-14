@@ -1,0 +1,151 @@
+
+FastLane Tracker started...
+
+ Shift 1 Summary
+ ===============
+
+  Carriages:            1
+  Buses:                1
+  Limos:                1
+  Trucks:               1
+  Vans:                 1
+  Tankers:              1
+  Flatbeds:             1
+  Unknowns:             1
+  Badregs:              0
+  Total Passenger Cap:  117
+  Total Freight Cap:    4730.97
+
+ Shift 1 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration  Operator ID  Operator CDL  
+  ----  --------  --------  ------------  -----------  ------------  
+   UNK         0      0.00  1vehicle      Driver_1_ID  Driver_1_CDL  
+   CAR        25      0.00  2carriage     Driver_2_ID  Driver_2_CDL  
+   BUS        80      0.00  3bus          Driver_3_ID  Driver_3_CDL  
+   LIM        12      0.00  4limo         Driver_4_ID  Driver_4_CDL  
+   TRK         0      0.00  5truck        Driver_5_ID  Driver_5_CDL  
+   VAN         0   3200.00  6van          Driver_6_ID  Driver_6_CDL  
+   TNK         0   1130.97  7tanker       Driver_7_ID  Driver_7_CDL  
+   FLT         0    400.00  8flatbed      Driver_8_ID  Driver_8_CDL  
+
+ Shift 2 Summary
+ ===============
+
+  Carriages:            1
+  Buses:                1
+  Limos:                1
+  Trucks:               1
+  Vans:                 1
+  Tankers:              1
+  Flatbeds:             1
+  Unknowns:             1
+  Badregs:              0
+  Total Passenger Cap:  117
+  Total Freight Cap:    4730.97
+
+ Shift 2 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration    Operator ID       Operator CDL       
+  ----  --------  --------  ------------    -----------       ------------       
+   UNK         0      0.00  1vehicle        Driver_1_ID       Driver_1_CDL       
+   CAR        25      0.00  2carriage_wide  Driver_2_ID       Driver_2_CDL       
+   BUS        80      0.00  3bus            Driver_3_ID_wide  Driver_3_CDL       
+   LIM        12      0.00  4limo           Driver_4_ID       Driver_4_CDL_wide  
+   TRK         0      0.00  5truck          Driver_5_ID       Driver_5_CDL       
+   VAN         0   3200.00  6van            Driver_6_ID       Driver_6_CDL       
+   TNK         0   1130.97  7tanker         Driver_7_ID       Driver_7_CDL       
+   FLT         0    400.00  8flatbed        Driver_8_ID       Driver_8_CDL       
+
+ Shift 3 Summary
+ ===============
+
+  Carriages:            1
+  Buses:                1
+  Limos:                1
+  Trucks:               1
+  Vans:                 1
+  Tankers:              1
+  Flatbeds:             1
+  Unknowns:             1
+  Badregs:              0
+  Total Passenger Cap:  117
+  Total Freight Cap:    4730.97
+
+ Shift 3 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration  Operator ID             Operator CDL             
+  ----  --------  --------  ------------  -----------             ------------             
+   UNK         0      0.00  1vehicle      Driver_1_ID             Driver_1_CDL             
+   CAR        25      0.00  2carriage     Driver_2_ID             Driver_2_CDL             
+   BUS        80      0.00  3bus          Driver_3_ID             Driver_3_CDL_extra_wide  
+   LIM        12      0.00  4limo         Driver_4_ID             Driver_4_CDL             
+   TRK         0      0.00  5truck        Driver_5_ID_extra_wide  Driver_5_CDL             
+   VAN         0   3200.00  6van          Driver_6_ID             Driver_6_CDL             
+   TNK         0   1130.97  7tanker       Driver_7_ID_extra_wide  Driver_7_CDL             
+   FLT         0    400.00  8flatbed      Driver_8_ID             Driver_8_CDL             
+
+ Shift 4 Summary
+ ===============
+
+  Carriages:            1
+  Buses:                1
+  Limos:                1
+  Trucks:               1
+  Vans:                 1
+  Tankers:              1
+  Flatbeds:             1
+  Unknowns:             1
+  Badregs:              0
+  Total Passenger Cap:  117
+  Total Freight Cap:    4730.97
+
+ Shift 4 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration    Operator ID       Operator CDL       
+  ----  --------  --------  ------------    -----------       ------------       
+   UNK         0      0.00  1vehicle        Driver_1_ID       Driver_1_CDL       
+   CAR        25      0.00  2carriage_wide  Driver_2_ID       Driver_2_CDL       
+   BUS        80      0.00  3bus            Driver_3_ID_wide  Driver_3_CDL       
+   LIM        12      0.00  4limo           Driver_4_ID       Driver_4_CDL_wide  
+   TRK         0      0.00  5truck          Driver_5_ID       Driver_5_CDL       
+   VAN         0   3200.00  6van            Driver_6_ID       Driver_6_CDL       
+   TNK         0   1130.97  7tanker         Driver_7_ID       Driver_7_CDL       
+   FLT         0    400.00  8flatbed        Driver_8_ID       Driver_8_CDL       
+
+ Shift 5 Summary
+ ===============
+
+  Carriages:            1
+  Buses:                1
+  Limos:                1
+  Trucks:               1
+  Vans:                 1
+  Tankers:              1
+  Flatbeds:             1
+  Unknowns:             1
+  Badregs:              0
+  Total Passenger Cap:  117
+  Total Freight Cap:    4730.97
+
+ Shift 5 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration  Operator ID  Operator CDL  
+  ----  --------  --------  ------------  -----------  ------------  
+   UNK         0      0.00  1vehicle      Driver_1_ID  Driver_1_CDL  
+   CAR        25      0.00  2carriage     Driver_2_ID  Driver_2_CDL  
+   BUS        80      0.00  3bus          Driver_3_ID  Driver_3_CDL  
+   LIM        12      0.00  4limo         Driver_4_ID  Driver_4_CDL  
+   TRK         0      0.00  5truck        Driver_5_ID  Driver_5_CDL  
+   VAN         0   3200.00  6van          Driver_6_ID  Driver_6_CDL  
+   TNK         0   1130.97  7tanker       Driver_7_ID  Driver_7_CDL  
+   FLT         0    400.00  8flatbed      Driver_8_ID  Driver_8_CDL  
+
+
+...Thank you for using FastLane Tracker.
+

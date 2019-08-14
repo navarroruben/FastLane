@@ -1,0 +1,106 @@
+log.txt # log file for FastLane project
+10/20/2017
+Ruben Navarro
+RN16G
+
+---------- 10/20/2017 ---------
+
+13:46 - Began to review stester_i.x and vtester_i.x executables.
+18:13 - Started work on header file shape.h
+
+---------- 10/21/2017 ---------
+
+15:20 - Implemented Class definitions in shape.h 
+15:30 - Started work on header file vehicles.h
+16:04 - Implemented Class definitions in vehicles.h
+16:09 - Started to implemented shapes.cpp member function definitions.   
+20:00 - Shapes member definitions completed, option 0 is executing as expecting,
+however when running option 1 for Box it is triggering Shape to execute.
+
+*** unexpected output ***
+
+Enter code followed by size arguments ('Q' to quit): 1           
+ Enter L,W,H,v: 10
+20
+30
+0
+
+ Name: generic
+ Volume: 0.00
+ Area:   0.00
+
+22:45 - Corrected output issue by converting class memberfunctions and class
+destructor to virtual.
+
+*** my output ***
+
+Enter code followed by size arguments ('Q' to quit): 1           
+ Enter L,W,H,v: 10
+20
+30
+0
+
+ Name: box
+ Volume: 6000.00
+ Area:   2200.00
+   
+     
+------- 10/22/2017 ---------
+
+00:43 - stester.x working as expected all output is matching sample executable
+using the stester.com file.
+
+00:45 - Testing vtester.x in order to see how the executable functions
+01:00 - Implementing vehicles.h and vehicles.cpp
+
+14:32 - Functions commerical vehicale to trucks is working as intented
+14:33 - Getting output error for LoadCapacity function in Van class.
+
+*** incorrect output ***
+
+Enter sn ('Q' to quit): 6
+
+CommercialVehicle(6,id_OK,cdl_OK,0,1)
+Truck(6,id_OK,cdl_OK,1)
+Shape(8.00,10.00,40.00,1)
+Box(8.00,10.00,40.00,1)
+Van(6,id_OK,cdl_OK,8.00,10.00,40.00,1)
+Short Name:    VAN
+Registration:  6
+Operator ID:   id_OK
+Operator CDL:  cdl_OK
+Passenger Cap: 0
+Load Capacity: 0.00
+~Van()
+~Box()
+~Shape()
+~Truck()
+CommercialVehicle() 
+
+20:10 - fixed issue with load capacity output by calling correct function
+
+*** my output ***
+
+Enter sn ('Q' to quit): 6
+
+CommercialVehicle(6,id_OK,cdl_OK,0,1)
+Truck(6,id_OK,cdl_OK,1)
+Shape(8.00,10.00,40.00,1)
+Box(8.00,10.00,40.00,1)
+Van(6,id_OK,cdl_OK,8.00,10.00,40.00,1)
+Short Name:    VAN
+Registration:  6
+Operator ID:   id_OK
+Operator CDL:  cdl_OK
+Passenger Cap: 0
+Load Capacity: 3200.0
+~Van()
+~Box()
+~Shape()
+~Truck()
+CommercialVehicle()
+
+21:20 - Rest of the functions implemented properly and receiving same output as
+examples *surprisngly*
+
+21:23 - Addding comments and formatting corrections to files and submitting. 

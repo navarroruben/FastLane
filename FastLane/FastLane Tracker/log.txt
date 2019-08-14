@@ -1,0 +1,115 @@
+#
+# log.txt # log file for FastLane Project
+# 10/24/17
+# Ruben Navarro
+# RN16G
+#
+
+--------- 10/24/2017 ---------
+
+23:47 - Starting work on client program for tracker in tracker.cpp file.
+23:50 - Having issues using ifstream to read file. No output given
+
+--------- 10/25/2017 ---------
+
+13:40 - I was attempting to open the file when I should have been using
+redirection instead.
+15:01 - While loop is giving me errors and not stopping during execution.
+16:02 - Fixed issue using a do while loop and adding shift > 0 for condition
+
+--------- 10/26/2017 ---------
+
+20:03 - Summary and log are printing but getting error with number of shift
+being printed
+
+*** output error ***
+
+Shift 1 Summary
+===============
+
+Shift 1 Summary
+==============
+
+22:02 - Fixed issue with n in shift output by adding a simple shift counter
+23:04 - getting an output issue with the results for total passenger cap. 
+
+*** output error *** 
+
+Shift 5 Summary
+===============
+
+Carriages:            1
+Buses:                1
+Limos:                1
+Trucks:               1
+Vans:                 1
+Tankers:              1
+Flatbeds:             1
+Unknowns:             1
+Badregs:              0
+Total Passenger Cap:  12
+
+23:45 - Added variable to hold and add amount of passanger capacity
+
+*** correct output ***
+
+Shift 5 Summary
+===============
+
+Carriages:            1
+Buses:                1
+Limos:                1
+Trucks:               1
+Vans:                 1
+Tankers:              1
+Flatbeds:             1
+Unknowns:             1
+Badregs:              0
+Total Passenger Cap:  117
+
+   
+-------- 10/29/2017 ---------
+
+14:36 - all output seems to be matching test examples exactly, there is only
+issues with formatting at this point.
+    
+23:06 - Formatting is still off in some places.. will be submitting in order to
+confirm output is correct. 
+
+--------- 10/30/2017 ---------
+
+00:01 - Test results showed formatting completly off, adding new calculations
+for width colums
+00:25 - Formatting seems to be on par with example.. resubmitting.
+08:02 - Formatting for shift_wide.in is given unexpected results
+
+*** incorrect results ***
+
+ Shift 3 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration  Operator ID    Operator CDL
+  ----  --------  --------  ------------  -----------     ------------
+   UNK         0      0.00  1vehicle      Driver_1_ID   Driver_1_CDL
+   CAR        25      0.00  2carriage     Driver_2_ID   Driver_2_CDL
+   BUS        80      0.00  3bus          Driver_3_ID
+  Driver_3_CDL_extra_wide
+
+10:02 - Fixed output results by checking length of max string provided by shift
+rotation then adding to variables provided in the hint.
+
+*** correct output ***
+
+  Shift 3 Log
+ ===============
+
+  Type  Pass Cap  Load Cap  Registration  Operator ID             Operator CDL
+  ----  --------  --------  ------------  -----------             ------------
+   UNK         0      0.00  1vehicle      Driver_1_ID             Driver_1_CDL
+   CAR        25      0.00  2carriage     Driver_2_ID             Driver_2_CDL
+   BUS        80      0.00  3bus          Driver_3_ID             Driver_3_CDL_extra_wide
+   LIM        12      0.00  4limo         Driver_4_ID             Driver_4_CDL
+   TRK         0      0.00  5truck        Driver_5_ID_extra_wide  Driver_5_CDL
+
+
+01:45 - Resubmitting work.

@@ -1,0 +1,10 @@
+8
+1vehicle  Driver_1_ID Driver_1_CDL
+2carriage Driver_2_ID Driver_2_CDL 25
+3bus      Driver_3_ID Driver_3_CDL 80
+4limo     Driver_4_ID Driver_4_CDL 12
+5truck    Driver_5_ID Driver_5_CDL 
+6van      Driver_6_ID Driver_6_CDL 8 10 40
+7tanker   Driver_7_ID Driver_7_CDL 3 40
+8flatbed  Driver_8_ID Driver_8_CDL 8 50
+0
