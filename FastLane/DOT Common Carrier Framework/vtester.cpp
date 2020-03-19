@@ -1,7 +1,5 @@
 /*
    vtester.cpp
-
-   Chris Lacher
    02/07/17
 
    Test harness for the vehicle object hierarchy
