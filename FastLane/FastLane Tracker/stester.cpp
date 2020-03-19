@@ -1,9 +1,6 @@
 /*
    shapetester.cpp
-
-   Chris Lacher
-   02/07/17
-
+   
    Test harness for the shape object hierarchy:
     0 - Shape
     1 - Box
